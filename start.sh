@@ -1,0 +1,1 @@
+nohup python3 ./flask_sever.py >flask_sever_run_log.log 2>&1 &
